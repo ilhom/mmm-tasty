@@ -4,7 +4,6 @@ public/uc
 tmp
 db/openid-store
 db/*sqlite3
-db/schema.rb
 config/environment.rb
 config/sphinx.conf
 config/mail_fetcher.yml
